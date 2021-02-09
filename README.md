@@ -6,13 +6,13 @@ Developed by Léo Meyne and Emilien Tellier from C2 group as part of the first s
 * Language : C. 
 * using "Libragphique" and "Makefile" that the school provides.
 * The project unfold in five folders, one file "makefile" and this file.
- - data : this folder contains ".txt" files which are used to operate the program (4 game levels and "records.txt" that contains the highests scores).
- - imgae : this folder contains all the game's images (ghosts' sprites, paccman's, etc).
- - lib : "libgraphique"'s folder, contains "libgraphique{.c;.h}", the ".ttf" file that contains font and the patch note.
- - obj : this folder is empty before you build the program, then it contains ".o" objects files.
- - src : contains two ".c" files ("partie.c" and "main.c") and their matching ".h" files.
- - makefile : building tool.
- - readme.txt (this file).
+  - data : this folder contains ".txt" files which are used to operate the program (4 game levels and "records.txt" that contains the highests scores).
+  - imgae : this folder contains all the game's images (ghosts' sprites, paccman's, etc).
+  - lib : "libgraphique"'s folder, contains "libgraphique{.c;.h}", the ".ttf" file that contains font and the patch note.
+  - obj : this folder is empty before you build the program, then it contains ".o" objects files.
+  - src : contains two ".c" files ("partie.c" and "main.c") and their matching ".h" files.
+  - makefile : building tool.
+  - readme.txt (this file).
 
 ### Installation :
 Because it is in C language coded, you just have to build the program before running it.
