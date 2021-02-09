@@ -1,4 +1,4 @@
-# Pacman project!![Pac_Droite](https://user-images.githubusercontent.com/78816569/107407429-effac980-6b09-11eb-94ef-28b02d05eb48.png)~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Pacman project!![Pac_Droite](https://user-images.githubusercontent.com/78816569/107407429-effac980-6b09-11eb-94ef-28b02d05eb48.png)~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Developed by Léo Meyne and Emilien Tellier from C2 group as part of the first semester of the "DUT Informatique" of Vélizy.
 ### Description :
 
