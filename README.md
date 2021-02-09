@@ -26,25 +26,25 @@ The compiled code is created, you now just have to run the command "./resultat".
 
 * The graphic part of the game is split as following :
   * The top left part displays informations :
-		  -- The remaining lifes (showed as visible pacman images (one equal one life))(first line).
-		  -- The player's score (showed just down the remaining lifes and preceded by "Score :") .
-		  -- Pacman's power disponibility ("disponible" or "indisponible" (Up or recharging)).
+  	* The remaining lifes (showed as visible pacman images (one equal one life))(first line).
+	* The player's score (showed just down the remaining lifes and preceded by "Score :") .
+	* Pacman's power disponibility ("disponible" or "indisponible" (Up or recharging)).
   
    *    The central part with the game's display.
 
-*   We move pacman with keyboard's directional arrows.
-*   Each time Pacman eats a "Pacboule" (small squares) it wins one point.
-*	Ghosts are basicly following pacman, to eat him.
-*	Whenever Pacman is going on a bonus (big circles), ghosts are changing their color and going backward, fearing pacman.
-*	The fear is growing : Once the middle of the duration of the bonus is complete, ghosts are paralyzed and they stop moving.
-*	In this time period, if pacman goes on a ghost, it eats it, and wins ten points.
-*	The ghost's dying, it respawns on his original spawnpoint and then,the ghosts fear is reinitialised for ten game turns.
-*	Pacman has a powerup, this power is acting as a bonus.
-*	To use this powerup, the player has to press the space bar.(WARNING : powerups' using is stopping pacman's run until the player press a new key).
-*	Once this powerup comes to it is the end, Pacman has to score 75 points to get it back.
-*	The game is ending up to two conditions :
-		- The easy one : Pacman has no more lifes, he dies and the player's lives is saved.
-		- The hardest one : Pacman ate all the "Pacboules", ghosts have nothing more to protect, the game comes to it's end. and the player's score is saved.
+* We move pacman with keyboard's directional arrows.
+* Each time Pacman eats a "Pacboule" (small squares) it wins one point.
+* Ghosts are basicly following pacman, to eat him.
+* Whenever Pacman is going on a bonus (big circles), ghosts are changing their color and going backward, fearing pacman.
+* The fear is growing : Once the middle of the duration of the bonus is complete, ghosts are paralyzed and they stop moving.
+* In this time period, if pacman goes on a ghost, it eats it, and wins ten points.
+* The ghost's dying, it respawns on his original spawnpoint and then,the ghosts fear is reinitialised for ten game turns.
+* Pacman has a powerup, this power is acting as a bonus.
+* To use this powerup, the player has to press the space bar.(WARNING : powerups' using is stopping pacman's run until the player press a new key).
+* Once this powerup comes to it is the end, Pacman has to score 75 points to get it back.
+* The game is ending up to two conditions :
+	* The easy one : Pacman has no more lifes, he dies and the player's lives is saved.
+	* The hardest one : Pacman ate all the "Pacboules", ghosts have nothing more to protect, the game comes to it's end. and the player's score is saved.
 		
 
 ### Support :
