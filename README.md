@@ -26,9 +26,9 @@ The compiled code is created, you now just have to run the command "./resultat".
 
 * The graphic part of the game is split as following :
   * The top left part displays informations :
-		- The remaining lifes (showed as visible pacman images (one equal one life))(first line).
-		- The player's score (showed just down the remaining lifes and preceded by "Score :") .
-		- Pacman's power disponibility ("disponible" or "indisponible" (Up or recharging)).
+		  -- The remaining lifes (showed as visible pacman images (one equal one life))(first line).
+		  -- The player's score (showed just down the remaining lifes and preceded by "Score :") .
+		  -- Pacman's power disponibility ("disponible" or "indisponible" (Up or recharging)).
   
    *    The central part with the game's display.
 
